@@ -74,6 +74,7 @@ extension View {
 
 
 
+
 // Thiscode frome View 3
 struct Watermark: ViewModifier {
     var text: String
